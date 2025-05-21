@@ -4,4 +4,7 @@ Done as a cybersecurity project for 3rd year.
 Components used: 
 1. Raspberry Pi Pico W
 2. SD card reader
+
+
+
 ![image](https://github.com/user-attachments/assets/2231f548-97d6-422b-a9cf-d7c0dc7e6a5c)
